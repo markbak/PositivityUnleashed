@@ -1,0 +1,2 @@
+# PositivityUnleashed
+Through Positivity Unleashed, we want to make positivity a habit in you. We want to cultivate your ability to look into the future with a brighter light. Habits are supposed to make you uncomfortable, and cultivating skills takes practice. But good habits and valuable skills also go a long way to make your life significantly better. And looking into the future with a bright light even when much of you wants to break apart is a key predicament of success.
