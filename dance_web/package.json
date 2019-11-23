@@ -1,0 +1,22 @@
+{
+  "name": "dance_web",
+  "version": "1.0.0",
+  "description": "Through Positivity Unleashed, we want to make positivity a habit in you. We want to cultivate your ability to look into the future with a brighter light. Habits are supposed to make you uncomfortable, and cultivating skills takes practice. But good habits and valuable skills also go a long way to make your life significantly better. And looking into the future with a bright light even when much of you wants to break apart is a key predicament of success.",
+  "main": "jav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbak/PositivityUnleashed.git"
+  },
+  "author": "Mitchell Itkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markbak/PositivityUnleashed/issues"
+  },
+  "homepage": "https://github.com/markbak/PositivityUnleashed#readme",
+  "dependencies": {
+    "update": "^0.7.4"
+  }
+}
