@@ -47,9 +47,10 @@ body{
     top: 50%;
     border-radius: 25px;
     background: grey;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     width: 150px;
-    height: 50px;
+    height: fit-content;
     font-size: 2.2vw;
     font-family: 'cove', 'sans-serif';
     color: white;
@@ -64,17 +65,17 @@ body{
 }
 
 #home{
-	display:none;
-	
+    width: 100%;
+    text-align: center;
 	font-family: 'cove', sans-serif;
 	
 }
 #title{
-    font-size: 3.2vw;
-    font-weight: 50;
 	position: absolute;
-	margin-left: 580px;
-	transform: tranlateX(-50%);
+    left: 50%;
+    font-weight: 50;
+    font-size: 3.2vw;
+	transform: translateX(-50%);
 	
 	
 	
